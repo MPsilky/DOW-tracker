@@ -1,0 +1,7 @@
+pandas
+requests
+schedule
+beautifulsoup4
+gspread
+oauth2client
+yfinance
